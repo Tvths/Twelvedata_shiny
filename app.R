@@ -6,7 +6,7 @@
 #   TWELVEDATA_API_KEY=your_key_here
 #
 # Run from GitHub:
-#   shiny::runGitHub("twelvedataShiny", "Tvths")
+#   shiny::runGitHub("Twelvedata_shiny", "Tvths")
 
 library(shiny)
 library(twelvedataR)
